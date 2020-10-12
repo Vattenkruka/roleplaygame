@@ -1,6 +1,6 @@
-#The Roleplay Game
+# The Roleplay Game
 
-##Description
+## Description
 The game is a simplified rpg, which includes three type of heroes. Namely Mage, Ranger and Warrior. 
 These heroes can equip different kind of armoursets and weapons. All of these heroes have different skillsets
 in regards to their properties. For instance a warrior has more strength than a mage, 
@@ -9,10 +9,10 @@ This game was constructed so that I could try out some of the
 design principles, in this case I tried to use the principle Factory to my best ability.
 
 
-##Installation
+## Installation
 You can either git clone it from my repo or download the zip file.
 
-##Usage
+## Usage
 In this chapter you will find an example of the functionality of the program.
 ###Example
 
@@ -26,5 +26,5 @@ A hero can level up with the function addHeroExperience().
 ## Authors and Acknowledgement
 Oscar Dahlquist
 
-##Status
+## Status
 Still missing some functionality until it's complete.
